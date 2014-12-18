@@ -1,0 +1,19 @@
+body {
+        font-family: 'Raleway', sans-serif;
+  /*      background-image: url(http://i.imgur.com/4TsTDog.jpg); 
+        background-color: #cccccc;
+*/
+
+    }
+
+hr {
+border:none;
+height: 3px;
+background-color: #333
+
+}
+.ispod:link {
+	font-weight: 600;
+	font-size: 20px;
+	color: #580000;
+}
